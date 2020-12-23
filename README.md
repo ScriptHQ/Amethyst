@@ -1,2 +1,14 @@
 # Amethyst
-A NewGen MEETflooder (Now With zoom!)
+A NewGen GOOGLE-MEET flooder (Now With Zoom!)
+
+╭━━━╮╱╱╱╱╱╭╮╭╮╱╱╱╱╱╱╱╱╭╮
+┃╭━╮┃╱╱╱╱╭╯╰┫┃╱╱╱╱╱╱╱╭╯╰╮
+┃┃╱┃┣╮╭┳━┻╮╭┫╰━┳╮╱╭┳━┻╮╭╯
+┃╰━╯┃╰╯┃┃━┫┃┃╭╮┃┃╱┃┃━━┫┃
+┃╭━╮┃┃┃┃┃━┫╰┫┃┃┃╰━╯┣━━┃╰╮
+╰╯╱╰┻┻┻┻━━┻━┻╯╰┻━╮╭┻━━┻━╯
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯
+# Its very Simple
+just Download The Files Provided
+
